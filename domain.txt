@@ -1,3 +1,5 @@
 pcare.bpjs-kesehatan.go.id
 claim.bpjs-kesehatan.go.id
 isrute.kemkes.go.id
+rsud.palikab.go.id
+apprsud.palikab.go.id
