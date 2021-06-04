@@ -7,3 +7,4 @@ yankes.kemkes.go.id
 sitb.id
 siha.kemkes.go.id
 sirs.kemkes.go.id
+palikab.go.id
