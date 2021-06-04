@@ -3,3 +3,7 @@ claim.bpjs-kesehatan.go.id
 isrute.kemkes.go.id
 rsud.palikab.go.id
 apprsud.palikab.go.id
+yankes.kemkes.go.id
+sitb.id
+siha.kemkes.go.id
+sirs.kemkes.go.id
