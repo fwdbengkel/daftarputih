@@ -9,3 +9,5 @@ sitb.id
 siha.kemkes.go.id
 sirs.kemkes.go.id
 palikab.go.id
+simkeu-palikab.simdacloud.id
+*.simdacloud.id
