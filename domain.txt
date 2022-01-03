@@ -11,3 +11,5 @@ sirs.kemkes.go.id
 palikab.go.id
 simkeu-palikab.simdacloud.id
 *.simdacloud.id
+*.kemkes.go.id
+sirs.yankes.kemkes.go.id
