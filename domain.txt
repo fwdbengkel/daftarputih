@@ -2,8 +2,9 @@ pcare.bpjs-kesehatan.go.id
 vclaim.bpjs-kesehatan.go.id
 *.bpjs-kesehatan.go.id
 sisrute.kemkes.go.id
-rsud.palikab.go.id
-apprsud.palikab.go.id
+sim.rsudtalangubi.com
+rsudtalangubi.com
+*.rsudtalangubi.com
 yankes.kemkes.go.id
 sitb.id
 siha.kemkes.go.id
@@ -13,3 +14,5 @@ simkeu-palikab.simdacloud.id
 *.simdacloud.id
 *.kemkes.go.id
 sirs.yankes.kemkes.go.id
+rstalangubi.hostr.my.id
+*.rstalangubi.hostr.my.id
